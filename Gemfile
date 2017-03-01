@@ -18,6 +18,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'paperclip', '~> 5.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'searchkick', '~> 2.1', '>= 2.1.1'
 
 group :development, :test do
   gem 'byebug', platform: :mri
